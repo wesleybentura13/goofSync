@@ -41,6 +41,6 @@ sqlparse==0.4.2
 urllib3==1.26.9
 Werkzeug==2.1.2
 whitenoise==6.2.0
-zipp==3.8.0
+zipp==3.19.1
 
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
